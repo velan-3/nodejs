@@ -7,7 +7,7 @@
   "license": "MIT",
    "dependencies": {
      "express": "^4.17.1",
-    "axios": "^0.24.0"
+    "axios": "^1.5.1"
   },
   "scripts": {
     "start": "node index.js"
